@@ -4,7 +4,7 @@
 ![](http://upyun.luckly-mjw.cn/Assets/media-source/readme-picture/109.jpeg)
 - 检测到符合条件的视频资源，自动注入代码。
 - 之后再也不需要自己注入代码啦，降低使用成本。
-- 可能有 Bug，但可以试试。如果使用中有问题，在 github 中提 issues 给我呗。 我们一起完善它。
+- 可能有 Bug，但可以试试。如果使用中有问题，在 github 中提 issues 给我呗。 我们一起完善它。777
 - 插件源码: https://github.com/Momo707577045/media-source-extract/blob/master/media-source-extract.user.js
 - 如果没成功检测到，咱们就用回老方法试试。再给我提个 bug。
 - 手动添加油猴插件步骤
